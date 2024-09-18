@@ -2,3 +2,4 @@ nginx
 redis
 redis:7
 postgres:15
+amancevice/superset
