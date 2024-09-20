@@ -3,4 +3,4 @@ redis
 redis:7
 postgres:15
 amancevice/superset
-zmister/mrdoc:v6
+zmister/mrdoc:v8
