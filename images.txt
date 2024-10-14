@@ -1,6 +1,5 @@
-nginx
-redis
-redis:7
-postgres:15
-amancevice/superset
-zmister/mrdoc:v8
+p3terx/aria2-pro
+p3terx/ariang
+allanpk716/chinesesubfinder:latest-lite
+linuxserver/jackett
+diluka/nas-tools:2.9.1
